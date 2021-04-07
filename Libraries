@@ -1,0 +1,8 @@
+Libraries which we can use in ML are:
+
+1. NLTK
+2. Tensorflow
+3. PyTorch
+4. OpenCV
+5. Spark MLlib
+6. sklearn
